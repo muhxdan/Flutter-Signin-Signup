@@ -1,2 +1,3 @@
-# Flutter-Signin-Signup
-A simple sign in and sign up screens using flutter
+# Flutter Sign in & Sign up Screens
+
+![App UI](/UI.png)
